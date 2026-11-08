@@ -1,0 +1,6 @@
+{
+  "name": "Curizx MCP Server",
+  "description": "AI-Powered Development Intelligence MCP Server by Rayhan | Curizx AI Architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
